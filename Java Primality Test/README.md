@@ -15,5 +15,6 @@ Sample Input
 
 Sample Output
 prime
+
 Explanation
 The only positive divisors of 13 are 13 and 1, so we print prime.
